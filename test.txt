@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 test file edited by dev1
 --------------------------
 
