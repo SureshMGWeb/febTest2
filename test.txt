@@ -6,3 +6,5 @@ git branch -a
 
 #check origin
 git remote -v
+
+This change is from master as dev1 branch
