@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 test file edited by dev1
 --------------------------
 
 // to check branches
 git branch -a
+
+#check origin
+git remote -v
